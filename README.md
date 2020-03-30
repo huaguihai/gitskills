@@ -1,5 +1,9 @@
-# gitskills
+ gitskills
 
 - This is learning record.
 - On this day, try to upload code-20200330
-- Creating a new branch is quick & simple. 
+<<<<<<< HEAD
+- Creating a new branch is quick AND simple. 
+=======
+- Creating a new branch is quick AND simple.
+>>>>>>> featurel
